@@ -25,7 +25,7 @@ You can collab with me if you work in one of the genres I write in. Lately I've 
 
 ## Contact
 
-[Email](exhum0prod@gmail.com)
-[SoundCloud](https://soundcloud.com/exhum0)
-[YouTube](https://youtube.com/@exhum0)
-[Instagram](https://instagram.com/exhum0)
+- [Email](exhum0prod@gmail.com)
+- [SoundCloud](https://soundcloud.com/exhum0)
+- [YouTube](https://youtube.com/@exhum0)
+- [Instagram](https://instagram.com/exhum0)
