@@ -9,13 +9,13 @@ Web developer and musician, working in the styles of metal, hip hop and electron
 | Name           | Genre                     | Status       |
 | -------------- | ------------------------- | ------------ |
 | FEXT           | Thrash Metal              | ❌ No Active |
-| WINTERLORD     | Symphonic Black / Ambient | ❌ No Active |
+| WINTERLORD     | Symphonic Black / Thrash Metal | ❌ No Active |
 | DARKFLAME      | Ambient / Electronic      | ❌ No Active |
 | PSYHOTRONE     | Bass / Trap               | ❌ No Active |
-| FACTORY REVOLT | Hardcore / Beatdown       | ❌ No Active |
+| FACTORY REVOLT | Hardcore / Beatdown / Groove Metal  | ❌ No Active |
 | WAR TREAD      | Heavy Metal / Hardcore    | ❌ No Active |
 | VINTERIOUS     | Covers                    | ❌ No Active |
-| exhum0         | Boom Bap                  | ✅ Active    |
+| exhum0         | Boom Bap / 90s Hip Hop    | ✅ Active    |
 
 ---
 
