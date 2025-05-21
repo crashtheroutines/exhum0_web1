@@ -1,31 +1,23 @@
-# 🎧 exhum0 — Hip-hop & Bass Producer
+# exhum0
 
-Web developer and musician, working in the styles of metal, hip hop and electronica.
+I create beats in different styles with a focus on atmospheric, rich sounds. The main focus is **boom bap**, inspired by **soul**, **jazz** and **funk**. Also in styles such as:
 
----
+- 🎵 **Trap**
+- ⚡ **Drum & Bass** *(Neurofunk, Liquid, Jungle, Halftime)*
+- 🎸 **Metal** *(Thrash, Groove< Heavy, Prog, Modern, Melodic Death, Symphonic, Djent)*
 
-## 📂 Music Projects
+## 🎼 Music
 
-| Name           | Genre                     | Status       |
-| -------------- | ------------------------- | ------------ |
-| FEXT           | Thrash Metal              | ❌ No Active |
-| WINTERLORD     | Symphonic Black / Thrash Metal | ❌ No Active |
-| DARKFLAME      | Ambient / Electronic      | ❌ No Active |
-| PSYHOTRONE     | Bass / Trap               | ❌ No Active |
-| FACTORY REVOLT | Hardcore / Beatdown / Groove Metal  | ❌ No Active |
-| WAR TREAD      | Heavy Metal / Hardcore    | ❌ No Active |
-| VINTERIOUS     | Covers                    | ❌ No Active |
-| exhum0         | Boom Bap / 90s Hip Hop    | ✅ Active    |
-
----
-
-## Collaboration
-
-You can collab with me if you work in one of the genres I write in. Lately I've been focusing on hip hop and R&B sound, moving away from metal. But I might come back to metal at a later date.
-
-## Contact
-
-- [Email](exhum0prod@gmail.com)
+- [YouTube](https://www.youtube.com/@exhum0)
 - [SoundCloud](https://soundcloud.com/exhum0)
-- [YouTube](https://youtube.com/@exhum0)
-- [Instagram](https://instagram.com/exhum0)
+- [BeatStars](https://beatstars.com/...)
+
+## 📬 Contacts
+
+- 📧 **EMail** [yourmail@example.com](exhum0prod@gmail.com)
+- 📸 [Instagram](https://www.instagram.com/exhum0)
+- 🎧 [Spotify ](https://open.spotify.com/artist/...)
+
+ ## Collaboration
+
+ I do not work with artists who spread hatred, xenophobia, militarism, authoritarianism and other attacks on the rights and freedoms of people
