@@ -2,9 +2,9 @@
 
 I create beats in different styles with a focus on atmospheric, rich sounds. The main focus is **boom bap**, inspired by **soul**, **jazz** and **funk**. Also in styles such as:
 
-- 🎵 **Trap** 
-- ⚡ **Drum & Bass**
-- 🎸 **Metal**
+- 🎵 **Trap**
+- ⚡ **Drum & Bass** *(Neurofunk, Liquid, Jungle, Halftime)*
+- 🎸 **Metal** *(Thrash, Groove< Heavy, Prog, Modern, Melodic Death, Symphonic, Djent)*
 
 ## 🎼 Music
 
