@@ -14,9 +14,8 @@ I create beats in different styles with a focus on atmospheric, rich sounds. The
 
 ## 📬 Contacts
 
-- 📧 **EMail** [yourmail@example.com](exhum0prod@gmail.com)
+- 📧 **EMail** [exhum0prod@gmail.com](exhum0prod@gmail.com)
 - 📸 [Instagram](https://www.instagram.com/exhum0)
-- 🎧 [Spotify ](https://open.spotify.com/artist/...)
 
  ## Collaboration
 
