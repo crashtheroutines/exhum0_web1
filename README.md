@@ -4,7 +4,7 @@ I create beats in different styles with a focus on atmospheric, rich sounds. The
 
 - 🎵 **Trap**
 - ⚡ **Drum & Bass** *(Neurofunk, Liquid, Jungle, Halftime)*
-- 🎸 **Metal** *(Thrash, Groove< Heavy, Prog, Modern, Melodic Death, Symphonic, Djent)*
+- 🎸 **Metal** *(Thrash, Groove, Heavy, Prog, Modern, Melodic Death, Symphonic, Djent)*
 
 ## 🎼 Music
 
