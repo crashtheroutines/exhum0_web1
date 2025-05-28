@@ -9,12 +9,12 @@ I create beats in different styles with a focus on atmospheric, rich sounds. The
 ## 🎼 Music
 
 - [YouTube](https://www.youtube.com/@exhum0)
+- [Instagram](https://www.instagram.com/exhum0)
 - [SoundCloud](https://soundcloud.com/exhum0)
-- [BeatStars](https://beatstars.com/...)
 
 ## 📬 Contacts
 
-- 📧 **EMail** [exhum0prod@gmail.com](exhum0prod@gmail.com)
+- 📧 [exhum0prod@gmail.com](exhum0prod@gmail.com)
 - 📸 [Instagram](https://www.instagram.com/exhum0)
 
  ## Collaboration
