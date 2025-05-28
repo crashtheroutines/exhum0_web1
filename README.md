@@ -1,6 +1,6 @@
 # exhum0
 
-Boom Bap / G Funk / 90s Hip Hop / Unrban R&B / NeoSoul
+Boom Bap / G Funk / 90s Hip Hop / Unrban R&B / NeoSoul / Trap Soul
 
 ## Music
 
