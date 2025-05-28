@@ -1,14 +1,14 @@
 # exhum0
 
-Boom Bap / 90s Hip Hop / Unrban R&B / NeoSoul
+Boom Bap / G Funk / 90s Hip Hop / Unrban R&B / NeoSoul
 
-## 🎼 Music
+## Music
 
 - [YouTube](https://www.youtube.com/@exhum0)
 - [Instagram](https://www.instagram.com/exhum0)
 - [SoundCloud](https://soundcloud.com/exhum0)
 
-## 📬 Contacts
+## Contacts
 
 [exhum0prod@gmail.com](exhum0prod@gmail.com)
 
