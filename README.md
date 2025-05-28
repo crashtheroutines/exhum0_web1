@@ -10,8 +10,7 @@ Boom Bap / 90s Hip Hop / Unrban R&B / NeoSoul
 
 ## 📬 Contacts
 
-- 📧 [exhum0prod@gmail.com](exhum0prod@gmail.com)
-- 📸 [Instagram](https://www.instagram.com/exhum0)
+[exhum0prod@gmail.com](exhum0prod@gmail.com)
 
  ## Collaboration
 
