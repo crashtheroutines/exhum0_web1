@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Описание сайта" />
+
+    <title>Back To Klassik Vol.2</title>
+
+    <link rel="stylesheet" href="styles.css" />
+
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <header class="header">
+      <div class="container">
+        <nav class="nav">
+          <a href="/" class="logo">Logo</a>
+          <ul class="nav__menu">
+            <li><a href="#home">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <div class="audio-player">
+        <audio id="audio" src=""></audio>
+
+        <div class="controls">
+          <button id="play-pause">▶️</button>
+          <input type="range" id="seek" value="0" step="1" />
+          <span id="current-time">0:00</span> / <span id="duration">0:00</span>
+        </div>
+
+        <ul id="tracklist">
+          <!-- Треки добавятся через JS -->
+        </ul>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="container">
+        <p>&copy; 2025, All Rights Reserved</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
